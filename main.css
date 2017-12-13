@@ -1,7 +1,10 @@
 body {
-  width: 100vw;
-  height: 100vh;
-  text-align: center;  
+  margin: 30vh 0;
+  padding: 0px;
+  height: 40vh;
+  width: 96vw;
+  text-align: center;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg');
 }
 
 p {
