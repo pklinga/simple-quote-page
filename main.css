@@ -1,0 +1,14 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;  
+}
+
+p {
+  font-style: oblique;
+  font-weight: bold;
+}
+
+h1 {
+  text-transform: uppercase;
+}
